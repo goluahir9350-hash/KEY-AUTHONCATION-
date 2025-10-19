@@ -1,9 +1,9 @@
 {
   "licenses": [
     {
-      "key": "123456",
+      "key": "GOLU",
       "device_id": "e9ba68f0-ab07-45ce-a6e4-83199ce0e885",
-      "expiry_date": "2025-12-06",
+      "expiry_date": "2026-12-06",
       "active": true,
       "status": "active",
       "created_date": "2026-01-01",
@@ -12,19 +12,19 @@
     {
       "key": "alpha@123",
       "device_id": "b0f4640d-4dc6-4cdd-a543-cc2a0577f33a", 
-      "expiry_date": "2015-12-30",
+      "expiry_date": "2026-12-30",
       "active": true,
       "status": "active",
-      "created_date": "2024-01-15",
-      "max_devices": 1
+      "created_date": "2026-01-15",
+      "max_devices": 1000
     },
     {
       "key": "TEST-0000-DEMO-1111",
-      "device_id": "",
-      "expiry_date": "2024-12-31",
+      "device_id": "e9ba68f0-ab07-45ce-a6e4-83199ce0e885",
+      "expiry_date": "2026-12-31",
       "active": false,
       "status": "inactive",
-      "created_date": "2024-01-01",
+      "created_date": "2026-01-01",
       "max_devices": 1
     }
   ]
